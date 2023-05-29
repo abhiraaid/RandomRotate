@@ -6,4 +6,4 @@ Alt+Q is the hotkey
 
 You can set minimum and maximum angle for random rotation, use the N panel to find those inputs.
 
-https://youtu.be/hJ7ulN8j1j4
+Here's a quick Guide - https://youtu.be/hJ7ulN8j1j4
