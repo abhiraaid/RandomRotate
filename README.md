@@ -1,4 +1,4 @@
-# RandomRotateZ
+# Random Rotate Z
 
 [Download the simple Random Rotate Z](https://github.com/abhiraaid/RandomRotate/releases/tag/RandomRotateZ)
 
@@ -13,11 +13,11 @@ Here's a quick Guide - https://youtu.be/hJ7ulN8j1j4
 
 
 
-# RandomRotateXYZ
+# Random Rotate XYZ
 
 [Download the latest version!](https://github.com/abhiraaid/RandomRotate/releases/tag/RandomRotateXYZ)
 
-RandomRotateZYZ is a different add-on, as the name suggests, allows you to rotate randomly in all 3 axis. 
+**Random Rotate XYZ** is a different add-on, as the name suggests, allows you to rotate randomly in all 3 axis. 
 
 Unlike it's predecessor, RandomRotateXYZ allows you to choose between `Global`, `Local` and `Custom` Orientation, for the rotation axis.
 
