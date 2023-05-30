@@ -1,5 +1,6 @@
 # RandomRotateZ
 
+[Download the simple Random Rotate Z](https://github.com/abhiraaid/RandomRotate/releases/tag/RandomRotateZ)
 Random Rotate Z is a simple Blender addon to rotate multiple objects randomly, on the **local** Z axis.
 
 `Alt+Q` is the hotkey
@@ -12,6 +13,8 @@ Here's a quick Guide - https://youtu.be/hJ7ulN8j1j4
 
 
 # RandomRotateXYZ
+
+[Download the latest version!](https://github.com/abhiraaid/RandomRotate/releases/tag/RandomRotateXYZ)
 
 RandomRotateZYZ is a different add-on, as the name suggests, allows you to rotate randomly in all 3 axis. 
 
