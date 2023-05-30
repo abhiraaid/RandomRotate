@@ -10,6 +10,7 @@ Here's a quick Guide - https://youtu.be/hJ7ulN8j1j4
 
 
 
+
 # RandomRotateXYZ
 
 RandomRotateZYZ is a different add-on, as the name suggests, allows you to rotate randomly in all 3 axis. 
@@ -27,9 +28,15 @@ It allows you to choose a custom object to determine the initial orientation/rot
 ![image](https://github.com/abhiraaid/RandomRotate/assets/108699606/a42e7d0e-3ceb-48bf-8d8b-60ef3cfb17d1)
 
 Orientation : Local
+
 min X angle : 0
+
 max X angle : 0
+
 min Y angle : 0
+
 max Y angle : 0
+
 min Z angle : 20deg
+
 max Z angle : 90deg
