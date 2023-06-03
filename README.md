@@ -19,6 +19,8 @@ Here's a quick Guide - https://youtu.be/hJ7ulN8j1j4
 
 **Random Rotate XYZ** is a different add-on, as the name suggests, allows you to rotate randomly in all 3 axis. 
 
+`Alt+Q` is the hotkey
+
 #
 
 It have 2 modes - Increment Random Rotation & Normal Random Rotation
