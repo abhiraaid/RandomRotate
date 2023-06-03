@@ -1,7 +1,8 @@
 **WARNING** : Use one of these add-ons at a time! Installing both will cause conflicting hotkeys
 #
 # Random Rotate XYZ
-![RandomRotateXYZ](https://github.com/abhiraaid/RandomRotate/assets/108699606/9a714cbf-acc9-4410-8455-d20ce06ec8df)
+![RandomRotateXYZ](https://github.com/abhiraaid/RandomRotate/assets/108699606/4016d0d8-fcf2-4f61-a417-99c601f842a5)
+
 
 
 [Download the latest version!](https://github.com/abhiraaid/RandomRotate/releases/tag/RandomRotateXYZ-2-0)
