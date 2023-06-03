@@ -2,7 +2,7 @@
 #
 # Random Rotate XYZ
 
-https://github.com/abhiraaid/RandomRotate/assets/108699606/3109d7b7-2e62-461f-8cea-0e173b94837b
+![RandomRotateXYZ](https://github.com/abhiraaid/RandomRotate/assets/108699606/9a714cbf-acc9-4410-8455-d20ce06ec8df)
 
 [Download the latest version!](https://github.com/abhiraaid/RandomRotate/releases/tag/RandomRotateXYZ-2-0)
 
