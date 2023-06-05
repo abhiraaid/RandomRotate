@@ -63,16 +63,16 @@ def register():
         name="Minimum Z Angle",
         description="Minimum rotation angle in degrees for Z axis",
         default=20.0,
-        min=0.0,
-        soft_max=180.0,
+        min=-360.0,
+        soft_max=360.0,
     )
 
     bpy.types.Scene.random_rotate_z_max_angle = FloatProperty(
         name="Maximum Z Angle",
         description="Maximum rotation angle in degrees for Z axis",
         default=90.0,
-        min=0.0,
-        soft_max=180.0,
+        min=-360.0,
+        soft_max=360.0,
     )
 
     # Add keymap entry
