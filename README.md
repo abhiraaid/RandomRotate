@@ -28,7 +28,7 @@ It allows you to choose a custom object to determine the initial orientation/rot
 #
 # Random Rotate Z
 
-[Download the simple Random Rotate Z](https://github.com/abhiraaid/RandomRotate/releases/tag/RandomRotateZ)
+[Download the simple Random Rotate Z](https://github.com/abhiraaid/RandomRotate/releases/tag/RandomRotateZ-1-1)
 
 Random Rotate Z is a simple Blender addon to rotate multiple objects randomly, on the **local** Z axis.
 
