@@ -1,7 +1,7 @@
 bl_info = {
     "name": "Random Rotate Z",
     "author": "abhiraaid",
-    "version": (1, 0),
+    "version": (1, 1),
     "blender": (3, 5, 1),
     "location": "View3D > Sidebar > Random Rotate Z",
     "description": "Randomize rotation of selected objects",
