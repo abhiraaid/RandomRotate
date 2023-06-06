@@ -1,7 +1,6 @@
-#
-[![RandomRotateXYZ](https://github-production-user-asset-6210df.s3.amazonaws.com/108699606/243735034-4a589a63-584d-496e-b03b-00b53b81d8ce.png)](https://youtu.be/9dN-AmmAko4)
-
 # Random Rotate XYZ
+Watch in depth guide on Youtube:
+[![RandomRotateXYZ](https://github-production-user-asset-6210df.s3.amazonaws.com/108699606/243787901-5e65b277-d3af-4f3c-a458-572eb6c0f907.png)](https://youtu.be/9dN-AmmAko4)
 
 ![RandomRotateXYZ](https://github.com/abhiraaid/RandomRotate/assets/108699606/9a714cbf-acc9-4410-8455-d20ce06ec8df)
 
