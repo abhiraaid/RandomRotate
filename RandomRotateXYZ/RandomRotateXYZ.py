@@ -58,7 +58,7 @@ class RandomRotateXYZOperator(bpy.types.Operator):
     """Randomly rotates the selected objects around XYZ axes"""
     bl_idname = "object.random_rotate_xyz"
     bl_label = "Random Rotate XYZ"
-    bl_options = {'UNDO'}
+    bl_options = {'REGISTER','UNDO'}
 
     def restore_selection(self, initial_selection):
         # Deselect all objects
