@@ -2,7 +2,6 @@
 ### Watch in-depth guide on Youtube:
 [![RandomRotateXYZ](https://github-production-user-asset-6210df.s3.amazonaws.com/108699606/243787901-5e65b277-d3af-4f3c-a458-572eb6c0f907.png)](https://youtu.be/9dN-AmmAko4)
 
-![RandomRotateXYZ](https://github.com/abhiraaid/RandomRotate/assets/108699606/9a714cbf-acc9-4410-8455-d20ce06ec8df)
 
 [Download the latest version!](https://github.com/abhiraaid/RandomRotate/releases/tag/RandomRotateXYZ-2-1)
 
@@ -25,6 +24,8 @@ You can choose between `Global`, `Local` and `Custom` Orientation, for the rotat
 What is the `Custom` Orientation?
 
 It allows you to choose a custom object to determine the initial orientation/rotation of all the selected objects.
+
+![RandomRotateXYZ](https://github.com/abhiraaid/RandomRotate/assets/108699606/9a714cbf-acc9-4410-8455-d20ce06ec8df)
 
 #
 #
