@@ -1,5 +1,5 @@
 #
-[![RandomRotateXYZ](https://github.com/abhiraaid/RandomRotate/assets/108699606/4a589a63-584d-496e-b03b-00b53b81d8ce)](https://youtu.be/9dN-AmmAko4)
+[![RandomRotateXYZ](https://github-production-user-asset-6210df.s3.amazonaws.com/108699606/243735034-4a589a63-584d-496e-b03b-00b53b81d8ce.png)](https://youtu.be/9dN-AmmAko4)
 
 # Random Rotate XYZ
 
