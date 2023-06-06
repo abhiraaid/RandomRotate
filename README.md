@@ -5,7 +5,7 @@
 
 [Download the latest version!](https://github.com/abhiraaid/RandomRotate/releases/tag/RandomRotateXYZ-2-1)
 
-**Random Rotate XYZ** is a different add-on, as the name suggests, allows you to rotate randomly in all 3 axis. 
+**Random Rotate XYZ** is an add-on, as the name suggests, allows you to rotate randomly in all 3 axis. 
 
 `Alt+Q` is the hotkey
 
