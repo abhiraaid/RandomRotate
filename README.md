@@ -39,7 +39,6 @@ Random Rotate Z is a simple Blender addon to rotate multiple objects randomly, o
 
 You can set minimum and maximum angle for random rotation, use the N panel to find those inputs.
 
-Here's a quick Guide - https://youtu.be/hJ7ulN8j1j4
 
 #
 #
