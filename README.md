@@ -5,7 +5,7 @@
 
 ![RandomRotateXYZ](https://github.com/abhiraaid/RandomRotate/assets/108699606/9a714cbf-acc9-4410-8455-d20ce06ec8df)
 
-[Download the latest version!](https://github.com/abhiraaid/RandomRotate/releases/tag/RandomRotateXYZ-2-0)
+[Download the latest version!](https://github.com/abhiraaid/RandomRotate/releases/tag/RandomRotateXYZ-2-1)
 
 **Random Rotate XYZ** is a different add-on, as the name suggests, allows you to rotate randomly in all 3 axis. 
 
